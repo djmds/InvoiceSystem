@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucky\\Desktop\\dee_invoice\\invoicesystem\\invoicesystem.csproj",
-      "projectName": "invoicesystem",
-      "projectPath": "C:\\Users\\lucky\\Desktop\\dee_invoice\\invoicesystem\\invoicesystem.csproj",
+      "projectUniqueName": "C:\\Users\\lucky\\Desktop\\dee_invoice\\Dtos\\BusinessLogic.csproj",
+      "projectName": "BusinessLogic",
+      "projectPath": "C:\\Users\\lucky\\Desktop\\dee_invoice\\Dtos\\BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucky\\Desktop\\dee_invoice\\invoicesystem\\obj\\",
+      "outputPath": "C:\\Users\\lucky\\Desktop\\dee_invoice\\Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,9 +54,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
