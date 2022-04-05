@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invoicesystem", "invoicesystem.csproj", "{5C5BFE35-3DD1-40E8-B00B-0636BC6E8CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\Dtos\BusinessLogic.csproj", "{F78A45D4-1128-4EE1-8A24-D4D8D01D7587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5BFE35-3DD1-40E8-B00B-0636BC6E8CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5BFE35-3DD1-40E8-B00B-0636BC6E8CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5BFE35-3DD1-40E8-B00B-0636BC6E8CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5BFE35-3DD1-40E8-B00B-0636BC6E8CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78A45D4-1128-4EE1-8A24-D4D8D01D7587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78A45D4-1128-4EE1-8A24-D4D8D01D7587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78A45D4-1128-4EE1-8A24-D4D8D01D7587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78A45D4-1128-4EE1-8A24-D4D8D01D7587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {790C4B90-36FF-4AD3-BD5C-594B404C37CF}
+	EndGlobalSection
+EndGlobal
